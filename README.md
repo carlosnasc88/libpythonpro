@@ -5,4 +5,9 @@ Nesta curso é ensinado como contribuir para um código aberto.
 
 Link do curso [Python Pro](https://www.python.pro.br/)
 
-close #1
+Suportado versão 3 de Python
+
+Tipos a serem abordados:
+1. Git
+2. Virtualenv
+3. Pip
